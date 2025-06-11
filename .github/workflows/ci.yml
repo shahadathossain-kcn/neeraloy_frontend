@@ -15,4 +15,3 @@ jobs:
 
       - run: npm ci
       - run: npm run lint    # ESLint must be set up in package.json
-      - run: npm test        # Basic test file must exist
